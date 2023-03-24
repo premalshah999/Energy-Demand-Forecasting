@@ -55,3 +55,4 @@
 2023-07-28T03:18:00: Enhanced forecasting accuracy with LSTM
 2024-09-06T00:46:00: Added temperature impact analysis on energy demand
 2024-12-25T23:36:00: Fixed missing data handling in preprocessing
+2023-03-24T08:13:00: Tested new regression models for better predictions
