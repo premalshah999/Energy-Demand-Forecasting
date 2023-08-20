@@ -26,3 +26,4 @@
 2023-02-10T23:09:00: Added temperature impact analysis on energy demand
 2024-09-05T17:24:00: Refactored training scripts for better efficiency
 2024-01-21T07:58:00: Refactored ML model training pipeline
+2023-08-20T03:42:00: Added time-series anomaly detection
