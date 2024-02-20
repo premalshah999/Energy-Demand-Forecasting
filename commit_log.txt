@@ -41,3 +41,4 @@
 2024-01-26T00:06:00: Updated visualization for demand trends
 2024-01-21T17:36:00: Updated documentation with latest model results
 2024-05-16T11:57:00: Fixed timestamp alignment issue in data processing
+2024-02-20T18:45:00: Updated README with new forecasting methods
